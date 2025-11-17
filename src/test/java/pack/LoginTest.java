@@ -8,7 +8,7 @@ public class LoginTest {
 WebDriver driver;
   @Test
   public void show() {
-	  System.out.println("Jenkins Introducing");
+	  System.out.println("Introducing Github");
   }
   @Test
   public void launchBrowser() {
