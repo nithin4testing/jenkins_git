@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class LoginTest {
-WebDriver Driver;
+WebDriver driver;
   @Test
   public void show() {
 	  System.out.println("Jenkins Introducing");
